@@ -1,6 +1,6 @@
 base58==2.0.0
 bcrypt==3.1.6
-cryptography==2.6.1
+cryptography==3.3.2
 decorator==4.3.0
 dnspython==1.16.0
 eth-abi==2.1.1
